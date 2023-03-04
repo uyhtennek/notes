@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "1ec35e4204b5a4bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea7995cb03bbd8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42ed7e992d91f0fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Industry information/_my-preparation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "088ac25f7e5a82cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Industry information/Job Hunt/Gameplay programmer interview guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9043021c7bcbbebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "98904f37ab869050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "195c666bb94cb960",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef980bf833880aa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "d912af83ef486498",
+    "type": "split",
+    "children": [
+      {
+        "id": "579713a05fd3aad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9066ec4e62e3c623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Industry information/_my-preparation.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33b21d8f4c951e9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Industry information/_my-preparation.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "195c666bb94cb960",
+  "lastOpenFiles": [
+    "Google Sheets",
+    "_Industry information/Job Hunt/resources.md",
+    "_Industry information/Job Hunt/Portfolio references.md",
+    "_Industry information/Job Hunt/Gameplay programmer interview guide.md",
+    "_Industry information/Technical Interview.md",
+    "_Industry information/_my-preparation.md",
+    "Theory/Hyperskill/Paradigms.md",
+    "_Industry information/Learning Materials.md",
+    "_Industry information/A Programmer Roadmap.md",
+    "Java/Hyperskill/Java Beginner.md",
+    "Web development/Web Development In 2022.md",
+    "_Industry information/Survey - 2022.md",
+    "CICD/technologies.md",
+    "Theory/Hyperskill",
+    "Theory",
+    "資源管理中心/Forums.md",
+    "Java/Hyperskill",
+    "Java",
+    "資源管理中心/Programming Readings.md",
+    "Game Programming/More Materials.md",
+    "Game Design/Game Assets.md",
+    "Game Design/世上有神人.md",
+    "_Industry information/Opportunities/Namelist.md",
+    "雞湯/TEDx Talks/Original Idea.md",
+    "雞湯/TEDx Talks/Giver.md",
+    "雞湯/TEDx Talks/Creative thinking.md",
+    "雞湯/TEDx Talks/How To Come Up With Good Ideas.md",
+    "_Industry information/雜記.md",
+    "_Industry information/cscareerquestions/A Guide to Lifelong Employability.md",
+    "資源管理中心/Stock photos.md",
+    "_Industry information/cscareerquestions",
+    "Web development/php/PHP Basics",
+    "Web development/php",
+    "Web development/php/phptherightway",
+    "_Industry information/Certificates",
+    "Game Design/Hyper-casual/Voodoo",
+    "_Attachments/Voodoo/Voodoo-UI-rules.png"
+  ]
+}

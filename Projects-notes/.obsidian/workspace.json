@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "efad909c96c866af",
+    "type": "split",
+    "children": [
+      {
+        "id": "da0d0a5dd6e4a129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d369d13d6fd0d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/Interactive Comics Platform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5150dc791c5b0acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d28c1f49a75d957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc2a35ef75a222e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b6442595b27c885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b30708bd82e8669",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb505e29f40aa64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ff7779b78604eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas/Interactive Comics Platform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74d369d13d6fd0d9",
+  "lastOpenFiles": [
+    "Ideas/洞洞板配置師.md",
+    "Ideas/移動塔防.md",
+    "Ideas/Interactive Comics Platform.md"
+  ]
+}

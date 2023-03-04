@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1ec35e4204b5a4bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b7066aaacadad62",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python/Python Syntax.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9043021c7bcbbebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "98904f37ab869050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "195c666bb94cb960",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef980bf833880aa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "d912af83ef486498",
+    "type": "split",
+    "children": [
+      {
+        "id": "579713a05fd3aad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9066ec4e62e3c623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/Python Syntax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1b7066aaacadad62",
+  "lastOpenFiles": [
+    "小知識/FIFA Ratings.md",
+    "Python/Python Syntax.md",
+    "CS50/CS50x Lecture/Week 6/CS50x 6-4 dictionary & CSV.md",
+    "CS50/CS50x Lecture/Week 6/CS50x 6-5 Python examples.md",
+    "Linus Commands Line/Linux Commands Cheat Sheet.md",
+    "Python/Python Background.md",
+    "CS50/CS50x Lecture/Week 6/CS50x 6-1 Python Beginner Tour.md",
+    "CS50/CS50x Lecture/Week 6/CS50x 6-2 C and Python.md",
+    "CS50/CS50x Lecture/Week 6/CS50x 6-3 more Python rules.md",
+    "C/C - 4 conditional statements.md"
+  ]
+}

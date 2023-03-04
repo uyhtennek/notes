@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "f9815339e787fda9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c3ff1a32a117f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f56b9ba540fad1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Misc/snoopy-says-life.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44e0d1bc662eb986",
+    "type": "split",
+    "children": [
+      {
+        "id": "79d88941be689be9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62dd19f42c0aac17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bb8ac44c8bfb280",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe2c7a28704a0c3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5971f2bfb1d59587",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c9c389d21e44d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Misc/snoopy-says-life.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d6f56b9ba540fad1",
+  "lastOpenFiles": [
+    "_Misc/Life And Donuts.png",
+    "_Misc/Gus Fring good posture.png",
+    "English words and pharses.md",
+    "Emoji.md",
+    "Computer stuff/Why C drive.md",
+    "Quora/most humane way to die.md",
+    "Quora/iPhone and Android.md",
+    "Interactive fictions/Photopia-materials.md",
+    "Interactive fictions/Photopia-commands.md",
+    "Quora/what is the point of living.md"
+  ]
+}

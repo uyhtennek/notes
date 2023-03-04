@@ -1,0 +1,9 @@
+{
+  "enabledCssSnippets": [
+    "obsidian",
+    "table-cs50-example"
+  ],
+  "accentColor": "",
+  "showViewHeader": true,
+  "baseFontSize": 16
+}

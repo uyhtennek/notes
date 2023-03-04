@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "efad909c96c866af",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b2f8ef843d7377c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5150dc791c5b0acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d28c1f49a75d957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc2a35ef75a222e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b6442595b27c885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b30708bd82e8669",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb505e29f40aa64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35ff7779b78604eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1b2f8ef843d7377c",
+  "lastOpenFiles": [
+    "Ideas/移動塔防.md",
+    "Ideas/洞洞板配置師.md"
+  ]
+}
